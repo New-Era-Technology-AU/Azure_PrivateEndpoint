@@ -77,7 +77,8 @@ $zones = (
     "fhir.azurehealthcareapis.com",
     "dicom.azurehealthcareapis.com",
     "azuredatabricks.net",
-    "siterecovery.windowsazure.com"
+    "siterecovery.windowsazure.com",
+    "migration.windowsazure.com"
 )
 
 # Loop through zones and create conditional forwarders pointing to your Azure DNS servers
